@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerDelivery", "FlowerDelivery\FlowerDelivery.csproj", "{E449F3AA-A77E-4C54-81B4-B344B71615D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerDelivery.Tests", "FlowerDelivery.Tests\FlowerDelivery.Tests.csproj", "{9AD75111-9A7F-46E0-8972-E7517267B719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E449F3AA-A77E-4C54-81B4-B344B71615D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E449F3AA-A77E-4C54-81B4-B344B71615D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E449F3AA-A77E-4C54-81B4-B344B71615D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E449F3AA-A77E-4C54-81B4-B344B71615D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD75111-9A7F-46E0-8972-E7517267B719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD75111-9A7F-46E0-8972-E7517267B719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD75111-9A7F-46E0-8972-E7517267B719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD75111-9A7F-46E0-8972-E7517267B719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E701B541-AB44-430E-80B9-BAAB7F140242}
+	EndGlobalSection
+EndGlobal
